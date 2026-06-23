@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: 075e4c4
+_src_path: https://github.com/python-project-templates/base.git
+add_docs: true
+add_extension: python
+add_wiki: false
+email: dev@1kbgz.com
+github: 1kbgz
+project_description: Pydantic models for systemd-timers
+project_name: systemd-timers-pydantic
+python_version_primary: '3.11'
+team: the systemd-timers-pydantic authors
