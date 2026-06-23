@@ -1,0 +1,21 @@
+systemd_timers_pydantic
+=======================
+
+.. py:module:: systemd_timers_pydantic
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   systemd_timers_pydantic.__version__
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   :value: '0.1.0'
+
+
