@@ -1,4 +1,4 @@
-from systemd_timers_pydantic import *  # noqa
+from systemd_timers_pydantic import *
 
 
 def test_all():
